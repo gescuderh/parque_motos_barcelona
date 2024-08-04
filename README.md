@@ -1,6 +1,6 @@
 # parque_motos_barcelona
 
-![foto_motoh](motohBarcelona.jpg)
+![foto_motoh](motohBarcelona.jfif)
 
 Este proyecto consiste en una práctica de unión de archivos .csv para conformar el dataset final y consultas en MySQL sobre el parque de motocicletas de Barcelona en los años 2007-2018.
 
