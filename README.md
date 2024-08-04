@@ -75,4 +75,4 @@ Daremos respuesta a las siguientes preguntas:
 ✅​ Para cada año, ¿cuál es el barrio de Barcelona con mayor número de motos antiguas (> 10 años)?
 
 
-Puedes descargar el archivo .sql con las consultas realizadas a través de este enlace 👉 o accediendo a través del archivo adjunto en el repositorio.
+Puedes descargar el archivo .sql con las consultas realizadas a través de este enlace 👉 https://github.com/gescuderh/parque_motos_barcelona/blob/main/sql_motosbcn.sql o accediendo a través del archivo adjunto en el repositorio.
